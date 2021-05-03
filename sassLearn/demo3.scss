@@ -1,0 +1,12 @@
+// 引入变量 不用加下换线
+@import './viriables';
+
+// 嵌套
+div {
+    span{
+        color: $color;
+        a {
+            color: $content-color ;
+        }
+    }
+}

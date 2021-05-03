@@ -1,0 +1,7 @@
+// 混入Mixin
+@mixin Singline-ellipsis($width) {
+    width: $width;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

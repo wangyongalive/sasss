@@ -1,0 +1,11 @@
+// @import 'mixin';
+@import './mixins';
+
+.text {
+  @include Singline-ellipsis(600px);
+}
+
+.content-text {
+//   width: 1000px;
+  @include Singline-ellipsis(1000px);
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,KAAK,CAAC;ECDF,KAAK,EDEoB,KAAK;ECD9B,QAAQ,EAAE,MAAM;EAChB,WAAW,EAAE,MAAM;EACnB,aAAa,EAAE,QAAQ;CDA1B;;AAED,AAAA,aAAa,CAAC;ECLV,KAAK,EDOoB,MAAM;ECN/B,QAAQ,EAAE,MAAM;EAChB,WAAW,EAAE,MAAM;EACnB,aAAa,EAAE,QAAQ;CDK1B",
+    "sources": [
+        "demo4.scss",
+        "_mixins.scss"
+    ],
+    "names": [],
+    "file": "demo4.css"
+}
